@@ -1,4 +1,4 @@
 # git-curso
-My first guit project
+My first git project
 
 This is my first git project I did in a turorial. 
